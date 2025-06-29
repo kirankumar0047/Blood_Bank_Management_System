@@ -1,6 +1,4 @@
-Blood Bank Management System Project
-![demo](https://img.shields.io/badge/AI-Resume--Matcher-blueviolet) ![status](https://img.shields.io/badge/Status-Working-success)
-
+Blood Bank Management System Project:
 A Django-based web application that helps manage blood donors, blood requests, and donations efficiently.
 
 Features:
